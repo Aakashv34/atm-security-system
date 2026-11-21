@@ -1,0 +1,11 @@
+venv/
+node_modules/
+__pycache__/
+*.sqlite3
+backend/media/
+detection/snapshots/
+detection/my_data/
+.env
+detection/download*.jpg
+detection/yolov8n.pt
+detection/atm_best.pt
